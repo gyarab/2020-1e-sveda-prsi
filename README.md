@@ -3,4 +3,4 @@ Cílem projektu je vytvořit věrnou kopii karetní hry Prší. Tedy vytvořit g
 
 #### Instalace a spuštění
 + Stáhněte ***Prsi.jar*** soubor
-+ Řiďte se pokyny v dokumentaci programu
++ Řiďte se pokyny dokumentace programu - kapitola "*Spuštění aplikace*"
